@@ -8,6 +8,6 @@ let data = Mock.mock("/mock",{
 	// 	"sex|1":["男","女"],
 	// 	"job|1":["web","teacher","python","php"]
 	// }]
-	"userinfo|1-3":["夏天","秋天","冬天","春天"]
+	"userinfo|1-3":["夏天","春天"]
 })
 export default data
